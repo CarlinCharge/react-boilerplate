@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "start":"webpack-dev-server",
+    "start": "webpack-dev-server",
     "test": "jest ./test"
   },
   "jest": {
@@ -27,7 +27,8 @@
     "babel-preset-env": "^1.7.0",
     "npm": "^6.1.0",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react-dom": "^16.4.0",
+    "webpack-merge": "^4.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
