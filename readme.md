@@ -26,7 +26,7 @@ You've got the code on your machine? Awesome! Let's get it up and running. So fi
 cd react-boilerplate
 ```
 
-Now that you're in the file directory, you need to install the required gem dependencies. Do this by running:
+Now that you're in the file directory, you need to install the required node modules. Do this by running:
 
 ```
 yarn
